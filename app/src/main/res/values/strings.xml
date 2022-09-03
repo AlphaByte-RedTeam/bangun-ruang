@@ -3,4 +3,5 @@
     <string name="bangun_ruang_kubus">Bangun Ruang - Kubus</string>
     <string name="kelompok_3">Kelompok 3</string>
     <string name="input_surface_here">Input surface here</string>
+    <string name="calculate_result">Calculate Result</string>
 </resources>
